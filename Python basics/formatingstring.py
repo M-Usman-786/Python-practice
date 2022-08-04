@@ -1,0 +1,8 @@
+#formatted string
+first = 'Muhammad'
+last = 'Usman'
+message = first + ' ['+ last + '] is a coder'
+print(message)
+#formating start
+msg = f'{first} [{last}] is a coder'
+print(msg)
